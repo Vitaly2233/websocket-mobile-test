@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "websocket-mobile",
+    "slug": "websocket-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "websocket-mobile"
+}
